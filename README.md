@@ -1,7 +1,7 @@
 
 🚀 Tech Enthusiast & Java Aficionado 🌟
 
-🔹 Specializing in Advanced Java | Aspiring Backend Specialist 🔹 Proficient in: Spring, Spring Boot, Microservices, Hibernate, Advanced Algorithms, Java Design Patterns 🔹 Passionate about continuous learning and exploring the intricacies of technology
+🔹 Specializing in Advanced Java | Aspiring Backend Specialist 🔹 Proficient in: Spring, Spring Boot, Microservices, Hibernate, Advanced Algorithms, Java Design Patterns ,Memory management and Performance Tuning and Optimization 🔹 Passionate about continuous learning and exploring the intricacies of technology
 
 🌱 On a Journey: Aiming to master the backend realm while nurturing a future vision of becoming an advanced Android developer.
 <!---
