@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 I’m a fresher developer who loves **exploring, experimenting, and learning by building**.  
 - 🔧 Strong foundation in **Java, Data Structures & Algorithms**  
-- 🌐 Growing backend skills with **Spring Boot, MySQL, REST APIs**  
+- 🌐 Growing backend skills with **Spring Boot, MySQL, REST APIs , Testing & Automation**  
 - 🎨 Exploring frontend basics with **JavaScript, React, HTML, CSS**  
 - 🧑‍💻 Enjoy solving problems, improving systems, and writing clean, efficient code  
 - 🏹 Practicing **LeetCode daily** to strengthen logic, speed, and consistency  
@@ -23,7 +23,7 @@ I’m a fresher developer who loves **exploring, experimenting, and learning by 
 - **Frameworks & Tools:** Spring Boot, Spring MVC, React (basic), JDBC  
 - **Databases:** MySQL  
 - **Core Strengths:** RESTful APIs, Multithreading, Concurrency, DSA  
-- **Tools:** Git, IntelliJ IDEA, Postman, DataGrip, WebStorm  
+- **Tools:** Git, IntelliJ IDEA, Postman, Selenium,TestNG ,jUnit , DataGrip, WebStorm  
 
 ---
 
