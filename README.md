@@ -19,11 +19,11 @@ I’m a fresher developer who loves **exploring, experimenting, and learning by 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** Java, JavaScript, HTML, CSS  
-- **Frameworks & Tools:** Spring Boot, Spring MVC, React (basic), JDBC  
+- **Languages:** Java, TypeScript, HTML, CSS  
+- **Frameworks & Tools:** Spring Boot, Spring MVC, React Native (basic), JDBC  
 - **Databases:** MySQL  
 - **Core Strengths:** RESTful APIs, Multithreading, Concurrency, DSA  
-- **Tools:** Git, IntelliJ IDEA, Postman, Selenium,TestNG ,jUnit , DataGrip, WebStorm  
+- **Tools:** Git, IntelliJ IDEA, Postman, Selenium, TestNG, jUnit , DataGrip, WebStorm  
 
 ---
 
