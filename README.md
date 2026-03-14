@@ -1,12 +1,12 @@
 
 # 👋 Hi, I'm Bishal Adhikary  
 
-🎓 Computer Science Graduate (2025) | 🌱 Curious Explorer | 🔢 Continuous LeetCode Solver  
+🎓 Software Engineer  | 🌱 Curious Explorer | 🔢 Continuous LeetCode Solver  
 
 ---
 
 ## 🚀 About Me  
-I’m a Software Engineer who loves **exploring, experimenting, and learning by building**.  
+I’m a Software Engineer  at Virtusa who loves **exploring, experimenting, and learning by building**.  
 - 🔧 Strong foundation in **Java, Data Structures & Algorithms**  
 - 🌐 Growing backend skills with ** Microservices, Spring Framework, Spring Boot, OracleSQl, MySQL, gRPC ,  REST APIs**  
 - 🎨 Exploring frontend basics with ** Basic Skills in JavaScript , React , Angular **  
