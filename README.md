@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 I’m a Software Engineer  at Virtusa who loves **exploring, experimenting, and learning by building**.  
 - 🔧 Strong foundation in **Java, Data Structures & Algorithms**  
-- 🌐 Growing backend skills with ** Microservices, Spring Framework, Spring Boot, OracleSQl, MySQL, gRPC ,  REST APIs**  
+- 🌐 Growing backend skills with ** Microservices, Spring Boot, OracleSQl, MySQL, gRPC ,  REST APIs, AWS ,Spring Security **  
 - 🎨 Exploring frontend basics with ** Basic Skills in JavaScript , React , Angular **  
 - 🧑‍💻 Enjoy solving problems, improving systems, and writing clean, efficient code  
 - 🏹 Practicing **LeetCode daily** to strengthen logic, speed, and consistency  
